@@ -1,0 +1,41 @@
+Faça um programa para calcular o valor de uma viagem.
+
+Voce tera 5 variáveis. Sendo elas:
+1 - Preço do etanol;
+2 - Preço da gasolina;
+3 - O tipo de combustível que está no seu carro;
+4 - Gatsto médio de combustível do carro por KM;
+5 - Distancia em KM da viagem;
+
+Imprima no console o valor que será gasto para realizar a vaigem.
+
+
+1) Faça uma algoritmo que dado as 3 notas tiradas por um aluno em um semestre da faculdade calcule e imprima a sua média e asua classificaçao conforme a tabela abaixo.
+
+Média = (nota1 + nota2 + nota3) / 3;
+
+classificaçao:
+- Média menor que 5, reprovação;
+- Média entre 5 e 7, recuperação;
+- Média maior que 7, passou de semestre;
+
+2) Elabore um algoritmo que dado o peso e a altura mostre sua condição de acordo com a tabela abaixo:
+
+IMC em adultos Condição:
+- Abaixo de 18.5 abaixo do peso;
+- Entre 18.5 e 25 Peso Normal;
+- Entre 25 e 30 Acima do peso;
+- Entre 30 e 40 Obeso;
+- Acima de 40 Obesidade Grave;
+
+Formula IMC:
+IMC = peso / (altura * altura)
+
+3) Elabore um algoritmo que calcule o que deve seer pago por um produto, considerando o preco normal de etiqueta e a escolha da condição de pagamento.
+Ultilize os códigos de tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado.
+
+Código Condição de pagamento:
+- À vista Débito, recebe 10% de desconto;
+- À vista no Dinheiro ou Pix, recebe 15% de desconto;
+- Em duas vezes, preço normal de etiqueta sem juros;
+- Acima de duas vezes, preço normal de etiqueta mais juros de 10%;
